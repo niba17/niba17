@@ -20,4 +20,4 @@ Skillset :
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 </div>
 Stat :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niba17&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niba17)](https://github.com/anuraghazra/github-readme-stats)
