@@ -2,9 +2,9 @@ A Full Stack Developer and OSINT Practitioner.
 
 ---
 
-- A Full Stack Developer, contributing to both frontend and backend development for building applications.
+- Contributing to both frontend and backend development for building applications.
 
-- An OSINT Practitioner, scour the depths of the internet to uncover hidden data and insights to fortify and enhance information.
+- Scour the depths of the internet to uncover hidden data and insights to fortify and enhance information.
 
 - Dedicated to delivering exceptional software solutions, crushing deadlines, and dominating in cross-functional team collaborations.
   
