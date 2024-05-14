@@ -1,18 +1,15 @@
-I am a Full Stack Developer from Indonesia.
+A Full Stack Developer and from Indonesia.
 
 ---
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- A Freelance Developer, contributing to both frontend and backend development for building applications.
 
-- :seedling: Exploring Technical Content Writing.
+- An OSINT Practitioner, Scour the depths of the internet to uncover hidden data and insights to fortify and enhance information.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- Dedicated to delivering exceptional software solutions, crushing deadlines, and dominating in cross-functional team collaborations.
   
 ---
 
-Skillset :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
