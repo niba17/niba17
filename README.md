@@ -1,4 +1,4 @@
-A Full Stack Developer and from Indonesia.
+A Full Stack Developer and OSINT Practitioner.
 
 ---
 
