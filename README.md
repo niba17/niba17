@@ -1,4 +1,5 @@
 A Full Stack Developer and OSINT Practitioner.
+kupang, NTT
 
 ---
 
