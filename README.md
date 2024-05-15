@@ -1,6 +1,6 @@
 A Full Stack Developer and OSINT Practitioner.
 
-📍 Kota Kupang, NTT
+📍 Kota Kupang-NTT-ID
 
 ---
 
