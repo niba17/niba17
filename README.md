@@ -1,6 +1,6 @@
 A Full Stack Developer and OSINT Practitioner.
 
-- :location: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 📍 Kota Kupang, NTT
 
 ---
 
