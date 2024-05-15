@@ -1,5 +1,6 @@
 A Full Stack Developer and OSINT Practitioner.
-Kota Kupang, NTT
+### Static Map from Google Maps
+![Our Office Location](https://maps.googleapis.com/maps/api/staticmap?center=latitude,longitude&zoom=14&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7Clatitude,longitude&key=YOUR_API_KEY)
 
 ---
 
