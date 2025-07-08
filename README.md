@@ -1,4 +1,4 @@
-A Full Stack Developer and OSINT Practitioner.
+A Full Stack Developer.
 
 📍 Kota Kupang-NTT-ID
 
@@ -6,13 +6,12 @@ A Full Stack Developer and OSINT Practitioner.
 
 - Contributing to both frontend and backend development for building application.
 
-- Scour the depths of the internet to uncover hidden data and insights to fortify and enhance information.
-
 - Dedicated to delivering exceptional software solutions, crushing deadlines, and dominating in cross-functional team collaboration.
   
 ---
 
 <div>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
